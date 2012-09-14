@@ -39,7 +39,7 @@ idVec4 idDeviceContext::colorBlue;
 idVec4 idDeviceContext::colorRed;
 idVec4 idDeviceContext::colorBlack;
 idVec4 idDeviceContext::colorWhite;
-idVec4 idDeviceContext::colorNone;
+idVec4 idDeviceContext::colorNone
 
 
 idCVar gui_smallFontLimit( "gui_smallFontLimit", "0.30", CVAR_GUI | CVAR_ARCHIVE, "" );
